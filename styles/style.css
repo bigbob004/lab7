@@ -1,0 +1,25 @@
+.example1 {
+    position: relative;
+}
+
+#example1_one {
+    position: absolute;
+    left:10px;
+}
+
+#example1_two {
+    position: absolute;
+    left:30px;
+    top: 30px;
+}
+
+#example1_three {
+    position: absolute;
+    left:50px;
+    top: 60px;
+}
+
+.example2 {
+    position: relative;
+    top: 400px;
+}
